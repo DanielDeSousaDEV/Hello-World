@@ -10,5 +10,5 @@ apenas testando os tal negócios de commits e pull-request.
 e é isso valeu.
 
 # Gabriel
--daniel
--gabriel
+- daniel
+- gabriel
