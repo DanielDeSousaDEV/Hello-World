@@ -6,7 +6,9 @@ apenas testando os tal negócios de commits e pull-request.
 - **Negrito**
 - `código`
 - [Links](https://github.com/DanieldeSousaAlmeida)
-
+- ```php
+     echo "hello everone";
+  ```
 e é isso valeu.
 
 # Gabriel
